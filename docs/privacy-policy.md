@@ -26,11 +26,17 @@ We strongly urge you to read this Privacy Policy and make sure you fully underst
 Personal data is data that can be used to contact or identify you, such as your name, email address, phone number, etc. Personal data you may provide to us through our Services, or otherwise, includes:
 
 - Contact data, such as your first and last name, alias, email address, billing and mailing addresses, and phone number.
+
 - Profile data, such as the username and password that you may set to establish an online account with us, photograph, biographical information, links to your profiles on social networks, and any other information that you add to or is associated with your account profile.
+
 - Communications data, such as data that we exchange with you, including when you contact us with questions or feedback, through our Services, social media, or otherwise.
+
 - Payment and transactional data , such as data relating to, or needed to complete, your purchases on or through our Services (including payment card information and billing information) or to provide you with the funds from a sale on the platform, digital wallet information, and your purchase history.
+
 - Marketing data, such as your preferences for receiving our marketing communications and details about your engagement with them. User-generated content, such as photos, images, comments, questions, messages, and other content or information that you generate, transmit, or otherwise make available on our Services, as well as associated metadata.
+
 - Government-issued identification numbers, such as national identification number (e.g. Social Security Number, tax identification number, passport number), state or local identification number (e.g., driver’s license or state ID number), and an image of the relevant identification card or any other data required for ‘Know Your Customer’ checks.
+
 - Other data not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
 
 ### Third-party sources
