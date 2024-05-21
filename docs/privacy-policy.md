@@ -1,4 +1,5 @@
-Privacy Policy
+# Privacy Policy
+
 Effective as of June 1st, 2024
 
 Bettercallme is a social platform which enables users to share their content; other users to enjoy content and for some to do both. We refer to those users who share content as “Talents” and those users who pay to view Talents’ content as “Users”. This Privacy Policy describes the privacy practices of Bettercallme, Inc. (“Bettercallme” “we”, “us” or “our”) and how we handle your personal data when you visit our site www.Bettercallme.com (the “Website”), any related sites, pages, services and goods or any other website operated by Bettercallme that links to this Privacy Policy (the “Services”). The purpose of this Privacy Policy is to provide you with a clear explanation of what personal data we collect, when, why and how we collect, use and share your personal data and it explains your statutory rights.
