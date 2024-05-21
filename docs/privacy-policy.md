@@ -1,12 +1,12 @@
 # Privacy Policy
 
-Effective as of June 1st, 2024
+_Effective as of June 1st, 2024_
 
 Bettercallme is a social platform which enables users to share their content; other users to enjoy content and for some to do both. We refer to those users who share content as “Talents” and those users who pay to view Talents’ content as “Users”. This Privacy Policy describes the privacy practices of Bettercallme, Inc. (“Bettercallme” “we”, “us” or “our”) and how we handle your personal data when you visit our site www.Bettercallme.com (the “Website”), any related sites, pages, services and goods or any other website operated by Bettercallme that links to this Privacy Policy (the “Services”). The purpose of this Privacy Policy is to provide you with a clear explanation of what personal data we collect, when, why and how we collect, use and share your personal data and it explains your statutory rights.
 
 We strongly urge you to read this Privacy Policy and make sure you fully understand our practices in relation to personal data before you use our Services.
 
-INDEX
+**INDEX**
 1.	Personal data we collect
 2.	How we use your personal data
 3.	How we share your personal data
@@ -18,8 +18,12 @@ INDEX
 9.	Changes to this Privacy Policy
 10.	How to contact us
 
-1.	Personal data we collect
-Information you provide to us. Personal data is data that can be used to contact or identify you, such as your name, email address, phone number, etc. Personal data you may provide to us through our Services, or otherwise, includes:
+
+## 1. Personal data we collect
+
+### Information you provide to us
+
+Personal data is data that can be used to contact or identify you, such as your name, email address, phone number, etc. Personal data you may provide to us through our Services, or otherwise, includes:
 
 •	Contact data, such as your first and last name, alias, email address, billing and mailing addresses, and phone number.
 •	Profile data, such as the username and password that you may set to establish an online account with us, photograph, biographical information, links to your profiles on social networks, and any other information that you add to or is associated with your account profile.
@@ -29,7 +33,9 @@ Information you provide to us. Personal data is data that can be used to contact
 •	Government-issued identification numbers, such as national identification number (e.g. Social Security Number, tax identification number, passport number), state or local identification number (e.g., driver’s license or state ID number), and an image of the relevant identification card or any other data required for ‘Know Your Customer’ checks.
 •	Other data not specifically listed here, which we will use as described in this Privacy Policy or as otherwise disclosed at the time of collection.
 
-Third-party sources. We may combine personal data we receive from third party vendors and/or other commercially available sources with the personal data we collected. The third-party sources from which we may receive personal data are:
+### Third-party sources
+
+We may combine personal data we receive from third party vendors and/or other commercially available sources with the personal data we collected. The third-party sources from which we may receive personal data are:
 •	Public sources, such as social media platforms and other publicly available sources.
 •	Data providers, such as information services and data licensors that provide demographic and other information.
 •	Third party vendors, such as service providers providing talent management services, fraud warnings, KYC or enrichment service providers to enhance and personalize your user experience.
@@ -37,14 +43,18 @@ Third-party sources. We may combine personal data we receive from third party ve
 
 If you choose to activate, access, or connect your account on or to a third-party platform or network, we may collect data from that platform or network, the data we collect may include your profile name, avatar, etc.
 
-Automatic data collection. We may automatically collect data about you, your computer or mobile device while you access, browse, view or otherwise interact with our Services, the data we collect may include:
+### Automatic data collection
+
+We may automatically collect data about you, your computer or mobile device while you access, browse, view or otherwise interact with our Services, the data we collect may include:
 •	Device data, such as your computer’s or mobile device’s operating system type and version, manufacturer and model, browser type, screen resolution, RAM and disk size, CPU usage, device type (e.g., phone, tablet), IP address, unique identifiers (including identifiers used for advertising purposes), language settings, mobile device carrier, radio/network information (e.g., Wi-Fi, LTE, 3G), and general location information such as city, state or geographic area.
 •	Online activity data, such as pages or screens you viewed, how long you spent on a page or screen, the website you visited before browsing to our Website, navigation paths between pages or screens, information about your activity on a page or screen, access times and duration of access, and whether you have opened our marketing emails or clicked links within them.
 
-Cookies and similar technologies. We use cookies and similar technologies (such as web beacons, pixels, tags and scripts) to improve and personalize your experience, provide our Services, analyze website performance and for marketing purposes. To learn more about how we use cookies and your control over these cookies, please see our Cookie Policy.
+### Cookies and similar technologies
+
+We use cookies and similar technologies (such as web beacons, pixels, tags and scripts) to improve and personalize your experience, provide our Services, analyze website performance and for marketing purposes. To learn more about how we use cookies and your control over these cookies, please see our Cookie Policy.
 Data about others. Users of our Services may have the opportunity to refer friends or other contacts to us and share their contact data with us. Please do not refer someone to us, or share their contact data with us, unless you have their permission to do so.
 
-2.	How we use your personal data
+## 2. How we use your personal data
 We may use your personal data for the following purposes or as otherwise described at the time of collection:
 Service delivery. We may use your personal data to:
 •	develop, provide, operate and improve our Services and our business;
