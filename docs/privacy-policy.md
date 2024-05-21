@@ -43,13 +43,13 @@ Personal data is data that can be used to contact or identify you, such as your 
 
 We may combine personal data we receive from third party vendors and/or other commercially available sources with the personal data we collected. The third-party sources from which we may receive personal data are:
 
-•	Public sources, such as social media platforms and other publicly available sources.
+- Public sources, such as social media platforms and other publicly available sources.
 
-•	Data providers, such as information services and data licensors that provide demographic and other information.
+- Data providers, such as information services and data licensors that provide demographic and other information.
 
-•	Third party vendors, such as service providers providing talent management services, fraud warnings, KYC or enrichment service providers to enhance and personalize your user experience.
+- Third party vendors, such as service providers providing talent management services, fraud warnings, KYC or enrichment service providers to enhance and personalize your user experience.
 
-•	Marketing partners, such as joint marketing partners and event co-sponsors.
+- Marketing partners, such as joint marketing partners and event co-sponsors.
 
 If you choose to activate, access, or connect your account on or to a third-party platform or network, we may collect data from that platform or network, the data we collect may include your profile name, avatar, etc.
 
@@ -57,9 +57,9 @@ If you choose to activate, access, or connect your account on or to a third-part
 
 We may automatically collect data about you, your computer or mobile device while you access, browse, view or otherwise interact with our Services, the data we collect may include:
 
-•	Device data, such as your computer’s or mobile device’s operating system type and version, manufacturer and model, browser type, screen resolution, RAM and disk size, CPU usage, device type (e.g., phone, tablet), IP address, unique identifiers (including identifiers used for advertising purposes), language settings, mobile device carrier, radio/network information (e.g., Wi-Fi, LTE, 3G), and general location information such as city, state or geographic area.
+- Device data, such as your computer’s or mobile device’s operating system type and version, manufacturer and model, browser type, screen resolution, RAM and disk size, CPU usage, device type (e.g., phone, tablet), IP address, unique identifiers (including identifiers used for advertising purposes), language settings, mobile device carrier, radio/network information (e.g., Wi-Fi, LTE, 3G), and general location information such as city, state or geographic area.
 
-•	Online activity data, such as pages or screens you viewed, how long you spent on a page or screen, the website you visited before browsing to our Website, navigation paths between pages or screens, information about your activity on a page or screen, access times and duration of access, and whether you have opened our marketing emails or clicked links within them.
+- Online activity data, such as pages or screens you viewed, how long you spent on a page or screen, the website you visited before browsing to our Website, navigation paths between pages or screens, information about your activity on a page or screen, access times and duration of access, and whether you have opened our marketing emails or clicked links within them.
 
 ### Cookies and similar technologies
 
@@ -70,51 +70,51 @@ Data about others. Users of our Services may have the opportunity to refer frien
 We may use your personal data for the following purposes or as otherwise described at the time of collection:
 Service delivery. We may use your personal data to:
 
-•	develop, provide, operate and improve our Services and our business;
+- develop, provide, operate and improve our Services and our business;
 
-•	establish, maintain and service your user profile for our Services;
+- establish, maintain and service your user profile for our Services;
 
-•	verify or maintain the quality or safety of the Services;
+- verify or maintain the quality or safety of the Services;
 
-•	conduct Know Your Customer checks and other screens permitted by law when you set up an account;
+- conduct Know Your Customer checks and other screens permitted by law when you set up an account;
 
-•	process your payments and complete transactions with you when you make  apurchase 
+- process your payments and complete transactions with you when you make  apurchase
 
-•	connect to your virtual wallet when you wish to add or withdraw funds from your virtual wallet;
+- connect to your virtual wallet when you wish to add or withdraw funds from your virtual wallet;
 
-•	facilitate invitations to friends who you want to invite to join our Services;
+- facilitate invitations to friends who you want to invite to join our Services;
 
-•	enable security features of our Services, such as (for example) by sending you security codes via email or SMS, and remembering devices from which you have previously logged in;
+- enable security features of our Services, such as (for example) by sending you security codes via email or SMS, and remembering devices from which you have previously logged in;
 
-•	communicate with you about our Services, including by sending announcements, updates, security alerts, and support and administrative messages;
+- communicate with you about our Services, including by sending announcements, updates, security alerts, and support and administrative messages;
 
-•	understand your needs and interests, and personalize your experience with our Services and our communications;
+- understand your needs and interests, and personalize your experience with our Services and our communications;
 
-•	enable communication with other Service users; and
+- enable communication with other Service users; and
 
-•	provide support for our Services, and contact you where requested or respond to your requests, questions and feedback.
+- provide support for our Services, and contact you where requested or respond to your requests, questions and feedback.
 
 Research and development. We may use your personal data for research and development purposes, including to analyze and improve our Services and our business. As part of these activities, we may create aggregated, de-identified or anonymous data from personal data we collect. We make personal data into anonymous data by removing data that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties for our lawful business purposes, including to analyze and improve our Services and promote our business.
 
 Marketing and advertising. We may collect and use your personal data for marketing and advertising purposes:
 
-•	Direct marketing. We may send you direct marketing communications about our products, services or promotions that may be of interest to you. Our processing of your personal data for marketing purposes is based on our legitimate interest, or on your consent, or as otherwise permitted by applicable laws. You have the right to prevent direct marketing of any form at any time, this right can be exercised by following the opt-out link attached to each communication or by sending an email to help@Bettercallme.com.
+- Direct marketing. We may send you direct marketing communications about our products, services or promotions that may be of interest to you. Our processing of your personal data for marketing purposes is based on our legitimate interest, or on your consent, or as otherwise permitted by applicable laws. You have the right to prevent direct marketing of any form at any time, this right can be exercised by following the opt-out link attached to each communication or by sending an email to help@Bettercallme.com.
 
-•	Interest-based advertising. We may engage third-party advertising companies and social media companies to display ads on other online services. These companies may use cookies and similar technologies to collect information about your interaction (including the data described in the automatic data collection section above) over time across our Services, our communications and other online services, and use that information to serve online ads that they think will interest you. This is called interest-based advertising. We may also share information about our users with these companies to facilitate interest-based advertising to those or similar users on other online platforms. You can learn more about your choices for limiting interest-based advertising in the Advertising choices section below.
+- Interest-based advertising. We may engage third-party advertising companies and social media companies to display ads on other online services. These companies may use cookies and similar technologies to collect information about your interaction (including the data described in the automatic data collection section above) over time across our Services, our communications and other online services, and use that information to serve online ads that they think will interest you. This is called interest-based advertising. We may also share information about our users with these companies to facilitate interest-based advertising to those or similar users on other online platforms. You can learn more about your choices for limiting interest-based advertising in the Advertising choices section below.
 
 Compliance and protection. We may use your personal data to:
 
-•	comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from government authorities;
+- comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from government authorities;
 
-•	protect our, your or others’ rights, privacy, safety or property (including by making and defending legal claims);
+- protect our, your or others’ rights, privacy, safety or property (including by making and defending legal claims);
 
-•	audit our internal processes for compliance with legal and contractual requirements or our internal policies;
+- audit our internal processes for compliance with legal and contractual requirements or our internal policies;
 
-•	maintain appropriate business records;
+- maintain appropriate business records;
 
-•	enforce the terms and conditions that govern our Services;
+- enforce the terms and conditions that govern our Services;
 
-•	and prevent, identify, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft.
+- and prevent, identify, investigate and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft.
 
 With your consent. In some cases, we may specifically ask for your consent to collect, use or share your personal data, such as when required by law.
 
@@ -125,23 +125,23 @@ To create aggregated, de-identified and/or anonymized data. We may create aggreg
 We do not sell or rent your personal data to third parties for their marketing purposes without your explicit consent.
 We may share your personal data with third parties as detailed below and as otherwise described in this Privacy Policy.
 
-•	Affiliates. We may share your personal data with our corporate parent, subsidiaries, and affiliates, for purposes consistent with this Privacy Policy.
+- Affiliates. We may share your personal data with our corporate parent, subsidiaries, and affiliates, for purposes consistent with this Privacy Policy.
 
-•	Service providers. We share personal data with those third parties who provide services on our behalf or help us operate our Services or our business (such as hosting, information technology, customer support, email delivery, marketing, and website analytics).
+- Service providers. We share personal data with those third parties who provide services on our behalf or help us operate our Services or our business (such as hosting, information technology, customer support, email delivery, marketing, and website analytics).
 
-•	Payment processors and fraud detection service providers. We share personal data with payment processors and fraud detection service providers for the purposes of facilitating payments done via the Services and securing the Services and protecting it against fraud, unauthorized transactions (such as money laundering), claims or other liabilities.
+- Payment processors and fraud detection service providers. We share personal data with payment processors and fraud detection service providers for the purposes of facilitating payments done via the Services and securing the Services and protecting it against fraud, unauthorized transactions (such as money laundering), claims or other liabilities.
 
-•	Advertising partners. We may share your personal data with third-party advertising companies for the interest-based advertising purposes described above. Data obtained through the Bettercallme Messaging short code program will not be shared with any third-parties for their marketing reasons/purposes.
+- Advertising partners. We may share your personal data with third-party advertising companies for the interest-based advertising purposes described above. Data obtained through the Bettercallme Messaging short code program will not be shared with any third-parties for their marketing reasons/purposes.
 
-•	Third-party platforms and social media networks. Our Services may contain certain social media features, such as sharing content from Bettercallme to external social media networks. If you have enabled features or functionality that connect our Services to a third-party platform or social media network (such as by linking your account to a third party’s services), we may disclose the personal data that you authorized us to share. We do not control the third party’s use of your personal data and such third party’s use will be in accordance with such party’s privacy policy. Professional advisors.
+- Third-party platforms and social media networks. Our Services may contain certain social media features, such as sharing content from Bettercallme to external social media networks. If you have enabled features or functionality that connect our Services to a third-party platform or social media network (such as by linking your account to a third party’s services), we may disclose the personal data that you authorized us to share. We do not control the third party’s use of your personal data and such third party’s use will be in accordance with such party’s privacy policy. Professional advisors.
 
-•	Professional advisors, such as lawyers, auditors, bankers and insurers, where necessary in the course of the professional services that they render to us.
+- Professional advisors, such as lawyers, auditors, bankers and insurers, where necessary in the course of the professional services that they render to us.
 
-•	Government Agencies and regulators. We may share personal data with law enforcement agencies, public authorities or other parties: (i) in order to respond to a subpoena or court order, judicial process or to regulatory authorities, if we believe we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; (ii) when we believe it necessary or appropriate to disclose personal data to law enforcement authorities, such as to investigate actual or suspected fraud or violations of law, breaches of security, or breaches of this Privacy Policy; (iii) to respond to claims against us; and (iv) to protect the rights, property, or personal safety of Bettercallme, our customers or the public.
+- Government Agencies and regulators. We may share personal data with law enforcement agencies, public authorities or other parties: (i) in order to respond to a subpoena or court order, judicial process or to regulatory authorities, if we believe we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; (ii) when we believe it necessary or appropriate to disclose personal data to law enforcement authorities, such as to investigate actual or suspected fraud or violations of law, breaches of security, or breaches of this Privacy Policy; (iii) to respond to claims against us; and (iv) to protect the rights, property, or personal safety of Bettercallme, our customers or the public.
 
-•	In the context of a corporate transaction. Personal data may be disclosed if we go through a business transition such as a merger, sale, transfer of all or a portion of Bettercallme’ assets, acquisition, bankruptcy or similar event. In the event that we sell any business or assets, we will disclose your data to the prospective buyer. If all, or substantially all, of our assets are acquired by a third party, data held by us about our users will be one of the transferred assets.
+- In the context of a corporate transaction. Personal data may be disclosed if we go through a business transition such as a merger, sale, transfer of all or a portion of Bettercallme’ assets, acquisition, bankruptcy or similar event. In the event that we sell any business or assets, we will disclose your data to the prospective buyer. If all, or substantially all, of our assets are acquired by a third party, data held by us about our users will be one of the transferred assets.
 
-•	Other users. Your personal data, such as your profile information and user-generated content and your email address may be visible to other users of our Services. For example, other users may have access to your profile or content through the course of your use of our Services, such as when you purchase an NFT. Where your personal data can be seen, collected and used by others, including being cached, copied, screen captured or stored elsewhere by others (e.g., search engines), we are not responsible for any such use of data.
+- Other users. Your personal data, such as your profile information and user-generated content and your email address may be visible to other users of our Services. For example, other users may have access to your profile or content through the course of your use of our Services, such as when you purchase an NFT. Where your personal data can be seen, collected and used by others, including being cached, copied, screen captured or stored elsewhere by others (e.g., search engines), we are not responsible for any such use of data.
 
 
 ## 4.	Your choices
@@ -151,23 +151,23 @@ Delete your user data. If you wish to delete your user data, you can delete your
 Opt-out of marketing communications. You may opt-out of marketing-related emails by following the opt-out or unsubscribe instructions at the bottom of the email, or by contacting us through the contact details set out in the ‘How to contact us’ section below. Please note that if you choose to opt-out of marketing-related emails, you may continue to receive service-related and other non-marketing emails.
 Advertising choices. You can limit use of your information for interest-based advertising by:
 
-•	Browser settings. Blocking third-party cookies in your browser settings.
+- Browser settings. Blocking third-party cookies in your browser settings.
 
-•	Privacy browsers/plug-ins. By using privacy browsers or ad-blocking browser plug-ins that let you block tracking technologies.
+- Privacy browsers/plug-ins. By using privacy browsers or ad-blocking browser plug-ins that let you block tracking technologies.
 
-•	Platform settings. Google and Facebook offer opt-out features that let you opt-out of use of your information for interest-based advertising:
+- Platform settings. Google and Facebook offer opt-out features that let you opt-out of use of your information for interest-based advertising:
 
-  o	Google: https://www.adsettings.google.com
+  * Google: https://www.adsettings.google.com
   
-  o	Facebook: https://www.facebook.com/about/ads
+  * Facebook: https://www.facebook.com/about/ads
   
-•	Ad industry tools. Opting out of interest-based ads from companies participating in the following industry opt-out programs:
+- Ad industry tools. Opting out of interest-based ads from companies participating in the following industry opt-out programs:
 
-  o	Network Advertising Initiative: http://www.networkadvertising.org/managing/opt_out.asp
+  *	Network Advertising Initiative: http://www.networkadvertising.org/managing/opt_out.asp
   
-  o	Digital Advertising Alliance: optout.aboutads.info.
+  *	Digital Advertising Alliance: optout.aboutads.info.
   
-  o	AppChoices mobile app, available at https://www.youradchoices.com/appchoices, which will allow you to opt-out of interest-based ads in mobile apps served by   participating members of the Digital Advertising Alliance.
+  *	AppChoices mobile app, available at https://www.youradchoices.com/appchoices, which will allow you to opt-out of interest-based ads in mobile apps served by   participating members of the Digital Advertising Alliance.
 
 You will need to apply these opt-out settings on each device from which you wish to opt-out.
 Please note that we also may work with companies that offer their own opt-out mechanisms and may not participate in the opt-out mechanisms that we linked to above.
