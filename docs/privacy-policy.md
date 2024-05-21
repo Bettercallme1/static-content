@@ -7,8 +7,8 @@ Bettercallme is a social platform which enables users to share their content; ot
 We strongly urge you to read this Privacy Policy and make sure you fully understand our practices in relation to personal data before you use our Services.
 
 **INDEX**
-[1.	Personal data we collect](## )
-[2.	How we use your personal data](## )
+1.	Personal data we collect
+2.	How we use your personal data
 3.	How we share your personal data
 4.	Your choices
 5.	Other sites and services
