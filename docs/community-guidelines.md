@@ -108,6 +108,8 @@ Reporting Violations:
 ### Changes to Guidelines:
 
 - We may update our Community Guidelines from time to time. We will notify you of any changes by posting the new guidelines on this page. Continued use of Bettercallme after changes have been made constitutes your acceptance of the new guidelines.
+
 By using Bettercallme, you agree to comply with these Community Guidelines and our Terms of Service. We are committed to maintaining a positive and respectful community, and we appreciate your cooperation.
+
 If you have any questions or concerns about these guidelines, please contact us at support@bettercallme.com.
 
