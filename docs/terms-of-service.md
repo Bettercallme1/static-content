@@ -41,6 +41,7 @@ k. **"Terms of Service"** refers to the legally binding agreement between you an
 
 ### 3. Who we are and how to contact us: 
 Bettercallme is operated by Bettercallme, Inc., a Delaware Corporation registered in the United States. Our registered business office address is 2261 Market Street STE 10280, San Francisco CA 94114, United States. 
+
 **You can contact us by emailing our support team at support@Bettercallme.com. If you're unable to email us, you can write to us at the address provided.**
 
 ### 4. How we may change the Terms of Service: 
@@ -148,29 +149,29 @@ With these terms, we aim to ensure a safe, fair, and enjoyable experience for al
 
 ### 11. Intellectual Property Rights – Ownership and Licenses:
 
-a. Ownership Confirmation: By agreeing to these terms, you confirm that you hold all intellectual property rights, such as copyright and trademarks, in the Content you post on Bettercallme. Alternatively, you assert that you have acquired all necessary rights to grant licenses for your Content to Bettercallme and other Participants. This includes rights necessary for the actions outlined in subsection 10(b) across territories where Bettercallme is accessible, notably in the United States of America and the European Union.
+a. **Ownership Confirmation:** By agreeing to these terms, you confirm that you hold all intellectual property rights, such as copyright and trademarks, in the Content you post on Bettercallme. Alternatively, you assert that you have acquired all necessary rights to grant licenses for your Content to Bettercallme and other Participants. This includes rights necessary for the actions outlined in subsection 10(b) across territories where Bettercallme is accessible, notably in the United States of America and the European Union.
 
-b. Grant of License: You agree to grant Bettercallme a license under all your Content to perform actions restricted by any intellectual property right, including copyright. These actions include reproduction, making available, public communication, display, performance, distribution, translation, creation of adaptations or derivative works, and any other dealings with your Content reasonably related to the provision and operation of Bettercallme.
+b. **Grant of License:** You agree to grant Bettercallme a license under all your Content to perform actions restricted by any intellectual property right, including copyright. These actions include reproduction, making available, public communication, display, performance, distribution, translation, creation of adaptations or derivative works, and any other dealings with your Content reasonably related to the provision and operation of Bettercallme.
 
-c. Perpetual License: The license granted to Bettercallme under subsection 10(b) is perpetual, non-exclusive, worldwide, royalty-free, sublicensable, assignable, and transferable. This means the license remains in effect even after your agreement with Bettercallme ends, and we may grant sub-licenses or transfer the license to third parties. This license enables Bettercallme to enhance your Content with features like stickers, text, or watermarks, make it available to other Participants, and utilize it for other operational purposes.
+c. **Perpetual License:** The license granted to Bettercallme under subsection 10(b) is perpetual, non-exclusive, worldwide, royalty-free, sublicensable, assignable, and transferable. This means the license remains in effect even after your agreement with Bettercallme ends, and we may grant sub-licenses or transfer the license to third parties. This license enables Bettercallme to enhance your Content with features like stickers, text, or watermarks, make it available to other Participants, and utilize it for other operational purposes.
 
-d. Notification of Infringement: While Bettercallme respects your ownership of Content, we reserve the right to submit notifications of infringement on your behalf to third-party websites or services hosting unauthorized copies of your Content. This proactive stance helps protect your intellectual property rights within and beyond the Bettercallme platform.
+d. **Notification of Infringement:** While Bettercallme respects your ownership of Content, we reserve the right to submit notifications of infringement on your behalf to third-party websites or services hosting unauthorized copies of your Content. This proactive stance helps protect your intellectual property rights within and beyond the Bettercallme platform.
 
-e. Waiver of Moral Rights: By agreeing to these terms, you waive any moral rights you may have under applicable law to object to derogatory treatment of your Content. This waiver does not affect your ownership of intellectual property rights in your Content or your rights to prevent unauthorized copying. It enables Bettercallme to add enhancements to your Content, as permitted by the license granted in section 10(b) above, such as watermarks, stickers, or text.
+e. **Waiver of Moral Rights:** By agreeing to these terms, you waive any moral rights you may have under applicable law to object to derogatory treatment of your Content. This waiver does not affect your ownership of intellectual property rights in your Content or your rights to prevent unauthorized copying. It enables Bettercallme to add enhancements to your Content, as permitted by the license granted in section 10(b) above, such as watermarks, stickers, or text.
 
 ### 12. Linking to and from Bettercallme:
 
-a. Links to Bettercallme:
+a. **Links to Bettercallme:**
   
   - You are permitted to link to the Bettercallme homepage as long as it is done in a fair and legal manner that does not damage our reputation or exploit it for personal gain. However, you must refrain from establishing links that imply any form of association, approval, or endorsement from Bettercallme.
   
   - If you are a Talent promoting your Talent account, you must adhere to our Terms of Service and the terms of service of any other platform where you place links or promote your account. Impersonating Bettercallme or misleadingly suggesting that your Talent account is endorsed by us is strictly prohibited. Additionally, promoting your Bettercallme account through Google Ads or similar advertising platforms is not allowed.
 
-b. Links from Bettercallme:
+b. **Links from Bettercallme:**
   
   - Bettercallme may contain links to third-party sites and resources for your convenience. However, these links should not be construed as our endorsement of those linked websites or the information they provide. We do not control the content of these sites and accept no responsibility for any loss or damage resulting from your use of them. Accessing third-party websites linked to Bettercallme is done at your own risk and subject to their respective terms and conditions.
 
-c. Domain Names:
+c. **Domain Names:**
   - Talents may be permitted to register or use domain names containing the Bettercallme trademark or similar terms, provided certain conditions are met:
 
     * The domain name must be registered by the Talent.
@@ -182,8 +183,7 @@ c. Domain Names:
   - Failure to comply with these provisions or the licensing agreement may result in Bettercallme initiating a domain dispute against the registrant.
 
 ### 13. How do I delete my account? 
-
-a. You can delete your Bettercallme account in the 'settings' section of your account. Deleting your account will permanently remove your profile, messages, videos, and balance. This action is irreversible, and your account cannot be restored.
+You can delete your Bettercallme account in the 'settings' section of your account. Deleting your account will permanently remove your profile, messages, videos, and balance. This action is irreversible, and your account cannot be restored.
 
 ### 14. Who is responsible for any loss or damage suffered by you? 
 
@@ -225,15 +225,15 @@ h. The Terms of Service constitute the entire agreement between us and supersede
 
 These Terms of Use for all Participants govern your agreement with us. Additionally, certain other terms or policies included in the Terms of Service will also apply to you and become part of your agreement with us:
 
-a. Terms of Use for Users: Additional terms apply if you use Bettercallme as a User.
+a. **Terms of Use for Users:** Additional terms apply if you use Bettercallme as a User.
 
-b. Terms of Use for Talents: Additional terms apply if you use Bettercallme as a Talent.
+b. **Terms of Use for Talents:** Additional terms apply if you use Bettercallme as a Talent.
 
-c. Privacy Policy: Applies to all Participants and explains how we use your personal data and other collected information.
+c. **Privacy Policy:** Applies to all Participants and explains how we use your personal data and other collected information.
 
-d. Community Guidelines: Applies to all Participants and outlines what is acceptable and unacceptable behavior on Bettercallme.
+d. **Community Guidelines:** Applies to all Participants and outlines what is acceptable and unacceptable behavior on Bettercallme.
 
-e. Referral Program Terms: Outlines terms for participating in the Bettercallme Referral Program.
+e. **Referral Program Terms:** Outlines terms for participating in the Bettercallme Referral Program.
 
 If there is a conflict between these Terms of Use for all Participants and any of the terms or policies listed from (a) to (h) above, the Terms of Use for all Participants will take precedence to the extent of the conflict.
  
@@ -288,7 +288,9 @@ c.	We are not responsible for or endorse any Content posted by you or other User
 
 You acknowledge that some Content on Bettercallme may contain adult material and agree to consider this when accessing it.
 
-### 8.	Subscriptions and purchases by Users: This section outlines the terms that govern User/Talent Transactions:
+### 8.	Subscriptions and purchases by Users: 
+
+This section outlines the terms that govern User/Talent Transactions:
 
 a. User/Talent Transactions: All transactions between Users and Talents are contracts based on the Standard Contract between User and Talent. We facilitate these transactions but are not a party to them and are not responsible for them.
 
@@ -314,7 +316,9 @@ l. Payment Terms: Users agree to pay any incurred Fees in accordance with the bi
 
 m. Tax Responsibilities: Users are responsible for any Sales Tax due. If required, Bettercallme will collect Sales Tax in addition to other payments. Users agree to indemnify Bettercallme for any related liabilities or expenses.
 
-### 9.	Suspension of User Account: If a User's account is suspended, any User Payments due during the suspension will also be suspended.
+### 9.	Suspension of User Account: 
+
+If a User's account is suspended, any User Payments due during the suspension will also be suspended.
  
 ## TERMS OF USE FOR TALENTS
 **BY USING OUR WEBSITE AS A TALENT YOU AGREE TO THESE TERMS – PLEASE READ THEM CAREFULLY**
@@ -331,15 +335,22 @@ In these Terms of Use for Talents, defined terms hold the same meanings as outli
   
 ### 3.	Other terms which will apply to your use of Bettercallme: 
 Your usage of Bettercallme is subject to the following terms: 
+
 a. Our Terms of Use for all Participants. 
+
 b. Our Privacy Policy. 
+
 c. Our Community Guidelines. 
+
 d. Our Complaints Policy. 
+
 e. The Standard Contract between User and Talent. 
+
 f. Our Community Guidelines.
 
 ### 4.	Other terms which may apply to your use of Bettercallme: 
 Additional terms that may apply include: 
+
 a. The Platform to Business Regulation Terms. 
 
 b. The Terms of Use for Users. 
@@ -362,6 +373,7 @@ Talents are personally bound by the Terms of Service and remain legally responsi
 
 ### 8.	Content – General Terms: 
 In addition to provisions outlined elsewhere, the following governs Content: 
+
 a. Your Content is not confidential, and you authorize Users to access and view it on Bettercallme for lawful and personal use. 
 
 b. You warrant the quality, ownership, and rights of your Content. 
@@ -399,6 +411,7 @@ We reserve the right to withhold all or part of your Talent Earnings under certa
 
 ## REFERRAL PROGRAM TERMS
 **WARNING!** In compliance with regulation 3 of the Trading Scheme Regulations 1997 (as amended) and section 120(1) of the Fair Trading Act 1973, please read the following warning:
+
 - It is illegal to persuade anyone to make a payment by promising benefits from getting others to join the Bettercallme Referral Program.
 
 - Do not be misled by claims of easily achieved high earnings from participation in the Bettercallme Referral Program.
@@ -406,9 +419,13 @@ We reserve the right to withhold all or part of your Talent Earnings under certa
 - Although no payment is demanded from Referring Participants to participate in the Bettercallme Referral Program, if you sign this contract, you have 14 days to cancel and receive a refund.
 
 1.	**Introduction:** These Referral Program Terms are additional terms applicable if you use the Bettercallme Referral Program, forming part of your agreement with us.
+
 2.	**Interpretation:** In these Referral Program Terms, defined terms have the same meanings given to them in the Terms of Use for all Participants. Additionally: a. "Referring participant" is also referred to as "you" or "your" in these Referral Program Terms. b. "Referred Talent" means the person who joins Bettercallme as a Talent via the Referring participant's unique referral link.
+
 3.	**What is the Bettercallme Referral Program?** Bettercallme offers a referral program where existing Participants can introduce potential Talents to Bettercallme and receive referral payments from Bettercallme according to the terms described herein.
+
 4.	**The rules of the Bettercallme Referral Program:**
+
   a. Only Participants with a current User account can participate.
 
   b. You must add bank account details to receive referral payments. 
@@ -426,6 +443,7 @@ We reserve the right to withhold all or part of your Talent Earnings under certa
   h. Referring participants must not misrepresent Bettercallme or potential earnings.
 
 5.	**Referral payments:**
+
 - Referral payments are calculated as five percent (5%) of User Payments generated by the Referred Talent in the twelve months after registration, up to a maximum of US$50,000 per Referred Talent.
 
 - Referral payments are capped at US$50,000 if the Referred Talent generates User Payments totaling US$1 million or more.
@@ -437,6 +455,7 @@ We reserve the right to withhold all or part of your Talent Earnings under certa
   a. We reserve the right to recover incorrectly made referral payments. 
 
   b. We may request ID and other information from Referring Participants or Referred Talents to verify payments. 
+
   c. We may change or discontinue the Referral Program, but changes will not affect referral payments already earned.
 
 7.	**Circumstances in which we may withhold referral payments:** 
