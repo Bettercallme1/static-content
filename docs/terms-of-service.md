@@ -452,11 +452,11 @@ We reserve the right to withhold all or part of your Talent Earnings under certa
 
 6. **Our rights relating to the referral program:** 
 
-  a. We reserve the right to recover incorrectly made referral payments. 
+a. We reserve the right to recover incorrectly made referral payments. 
 
-  b. We may request ID and other information from Referring Participants or Referred Talents to verify payments. 
+b. We may request ID and other information from Referring Participants or Referred Talents to verify payments. 
 
-  c. We may change or discontinue the Referral Program, but changes will not affect referral payments already earned.
+c. We may change or discontinue the Referral Program, but changes will not affect referral payments already earned.
 
 7.	**Circumstances in which we may withhold referral payments:** 
 
