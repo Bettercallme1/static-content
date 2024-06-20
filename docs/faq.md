@@ -122,7 +122,7 @@ Yes, pricing is totally up to you. You decide what your time and expertise are w
 ### Can my audience add tips?
 Yes, tips can be added, everytime
 ### How much will I earn for  each messages or video ?  
-You will always receive 80% of the rates you’ve set. To cover the small stuff like referral bonuses, keeping the lights on, and making sure our platform operates smoothly, we charge a small platform fee of 20%.
+You will always receive 80% of the rates you’ve set. To cover the small stuff like referral bonuses, keeping the lights on, and making sure our platform operates smoothly, we charge a platform fee of 20%.
 ### How much should I charge for messages and videos?
 It's totally up to you. Set rates that reflect your time and expertise or check out our earnings calculator for guidance.
 ### What does "pay as you want" mean?
