@@ -1,5 +1,5 @@
 # Help Center and FAQ
-[General](#1-general)
+1. [General](#1-general)
 
 2. For Users
 
