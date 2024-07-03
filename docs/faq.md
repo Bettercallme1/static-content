@@ -150,7 +150,7 @@ If your payout request is not being processed, it could be because you haven't a
 ### Why are third-party payments prohibited on Bettercallme?
 The use of third-party payment systems outside of Bettercallme is prohibited due to anti-money laundering laws and "Know Your Client" requirements. Arrangements for offsite payments are not allowed to ensure compliance with legal regulations and to maintain the integrity of our platform.
 
-## REFERRAL PROGRAM 
+## 4. REFERAAL PROGRAM 
 ### How can I benefit from the referral program? 
 To benefit from our referral program, simply refer someone to Bettercallme using your unique referral link. When they sign up and start earning, you'll automatically receive a commission. Here's what you get:
 
