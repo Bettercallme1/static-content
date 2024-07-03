@@ -53,6 +53,8 @@ Third-Party Content:
 
 - Do not use or share any content obtained from Bettercallme for commercial purposes, or share your account or any Content obtained from your use of Bettercallme with another person without proper authorization.
 
+- Do not to utilize AI engines or software in any manner to create responses or content that is then provided to Bettercallme users. We reserves the right to unilaterally and without prior notice review any use of AI, and retains sole discretion over any actions, including suspension, removal, or permanent account revocation.
+
 ## 3. Behavioral Standards
 ### Harassment and Bullying:
 
