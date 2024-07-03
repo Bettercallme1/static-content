@@ -5,7 +5,7 @@
 1. [Terms of Use for all Participants](#terms-of-use-for-all-participants)
 2. [Terms of Use for Users](#terms-of-use-for-users)
 3. [Terms of Use for Talents](#terms-of-use-for-talents)
-4. [Community Guidelines](https://bettercallme.com/community-guidelines.html)
+4. [Community Guidelines](#community-guidelines)
 5. [Referral Program Terms](#referral-program-terms)
 
 ## TERMS OF USE FOR ALL PARTICIPANTS 
