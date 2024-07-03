@@ -2,11 +2,11 @@
 
 **Contents**
 
-1. [Terms of Use for all Participants](#terms-of-use-for-all-participants)
-2. [Terms of Use for Users](#terms-of-use-for-users)
-3. [Terms of Use for Talents](#terms-of-use-for-talents)
-4. [Referral Program Terms](#referral-program-terms)
-5. [Community Guidelines](#community-guidelines)
+1. Terms of use to all participants 
+2. Terms of use for Users
+3. Terms of use for Talents
+4. Referral Program Terms
+5. Community Guidelines
 
 ## TERMS OF USE FOR ALL PARTICIPANTS 
 **BY USING OUR WEBSITE YOU AGREE TO THESE TERMS – PLEASE READ THEM CAREFULLY**
