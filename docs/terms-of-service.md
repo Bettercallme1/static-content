@@ -448,7 +448,7 @@ We reserve the right to withhold all or part of your Talent Earnings under certa
 
 - Referral payments are capped at US$50,000 if the Referred Talent generates User Payments totaling US$1 million or more.
 
-- Payouts are processed in USD, with a 1.25% transfer fee deducted.
+- When you request a payout, a 1.25% transfer fee will be deducted by our payment partner from the amount requested. Referral Payouts are processed in USD and converted to your account’s currency. Please note that Bettercallme does not have control over the currency exchange rates or any additional charges imposed by your ban
 
 6. **Our rights relating to the referral program:** 
 
