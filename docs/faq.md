@@ -96,7 +96,7 @@ You can email us at support@bettercallme.com. We also respond to every feature r
 Whether you need advice, inspiration, or just want to chat, simply reach out by sending a message in the chat or request a personalized video reply. Messages, voice notes, and video replies will appear directly in the chat. Responses are often quick, so keep an eye on your notifications.
 
 ### I didn’t receive a response or the required content. Can I get reimbursed? 
-We guarantee replies, so if you don’t hear back within 7 days, don’t worry, you’ll be reimbursed.
+If you don’t hear back within 7 days, don’t worry, you’ll be reimbursed.
 
 ### I received a response or a content but I am not happy with it. Can I get reimbursed?
 Any purchase that was delivered, whether through text, voice, or video, is final and non-refundable.
@@ -121,7 +121,7 @@ Set up your profile to showcase your skills and passions, set your rates for mes
 Yes, pricing is totally up to you. You decide what your time and expertise are worth, giving you total flexibility, freedom, and fairness over your hustle. But if you’re not quite sure how much you want to charge, no worries; you can let your audience decide what they’re willing to pay.
 ### Can my audience add tips?
 Yes, tips can be added, everytime
-### How much will I earn for  each messages or video ?  
+### How much will I earn for each messages or video ?  
 You will always receive 80% of the rates you’ve set. To cover the small stuff like referral bonuses, keeping the lights on, and making sure our platform operates smoothly, we charge a platform fee of 20%.
 ### How much should I charge for messages and videos?
 It's totally up to you. Set rates that reflect your time and expertise or check out our earnings calculator for guidance.
@@ -180,4 +180,4 @@ To initiate a referral payout, simply follow these steps:
 
 4. The minimum withdrawal amount is $10 
 
-5. When you request a payout, a 1.25% transfer fee will be deducted by our payment partner from the amount requested. Referral Payouts are processed in USD and converted to your account's currency. Please note that Bettercallme does not have control over the currency exchange rates imposed by your bank.
+5. When you request a payout, a 1.25% transfer fee will be deducted by our payment partner from the amount requested. Referral Payouts are processed in USD and converted to your account's currency. Please note that Bettercallme does not have control over the currency exchange rates or any additional charges imposed by your bank.
