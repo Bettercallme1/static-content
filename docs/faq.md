@@ -126,7 +126,7 @@ You will always receive 80% of the rates you’ve set. To cover the small stuff 
 ### How much should I charge for messages and videos?
 It's totally up to you. Set rates that reflect your time and expertise or check out our earnings calculator for guidance.
 ### What does "pay as you want" mean?
-If you're unsure about pricing, no worries, you can let your audience decide what they'd like to pay to interact with you. The minimum rate is set to $3.
+If you're unsure about pricing, no worries, you can let your audience decide what they'd like to pay to interact with you. The minimum rate is set to $1.
 ### Can I change my prices at any time?
 Absolutely. You're in full control and can change your rates at any time.
 ### How much time do I have to respond to a request?
@@ -140,7 +140,7 @@ Your current balance is what you've earned so far and can withdraw immediately. 
 ### How do I initiate a payout? 
 Simply add your payout information so that we can process your withdrawal .
 ### What is the minimum payout amount I can request?
-The minimum payout amount is $20.
+The minimum payout amount is $10.
 ### How much will I receive in my bank account? 
 When you request a payout, a 1.25% transfer fee will be deducted by our payment partner from the amount requested. Payouts are processed in USD and converted to your account's currency. Please note that Bettercallme does not have control over the currency exchange rates imposed by your bank.
 ### My payment has been processed. Where is it? 
@@ -178,6 +178,6 @@ To initiate a referral payout, simply follow these steps:
 
 3. Once your payout information is added, you can request a payout withdrawal.
 
-4. The minimum withdrawal amount is $20 
+4. The minimum withdrawal amount is $10 
 
 5. When you request a payout, a 1.25% transfer fee will be deducted by our payment partner from the amount requested. Referral Payouts are processed in USD and converted to your account's currency. Please note that Bettercallme does not have control over the currency exchange rates imposed by your bank.
