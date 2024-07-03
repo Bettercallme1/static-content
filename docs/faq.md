@@ -1,11 +1,11 @@
 # Help Center and FAQ
 1. [General](#1-general)
 
-2. For Users
+2. [For Users](#2-for-users)
 
-3. For Talents 
+3. [For Talents](#3-for-talents) 
 
-4. Referral Program
+4. [Referral Program](#4-referral-program)
 
 ## 1. GENERAL
 
